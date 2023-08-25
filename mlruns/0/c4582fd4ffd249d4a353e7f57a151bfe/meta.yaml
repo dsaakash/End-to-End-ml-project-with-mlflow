@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/savan/Desktop/All_Files/End-to-End-ml-project-with-mlflow/mlruns/0/c4582fd4ffd249d4a353e7f57a151bfe/artifacts
+end_time: 1692961313625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4582fd4ffd249d4a353e7f57a151bfe
+run_name: judicious-chimp-772
+run_uuid: c4582fd4ffd249d4a353e7f57a151bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692961308423
+status: 3
+tags: []
+user_id: savan

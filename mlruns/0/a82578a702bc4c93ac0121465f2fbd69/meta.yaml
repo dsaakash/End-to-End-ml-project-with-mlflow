@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/savan/Desktop/All_Files/End-to-End-ml-project-with-mlflow/mlruns/0/a82578a702bc4c93ac0121465f2fbd69/artifacts
+end_time: 1692961015170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a82578a702bc4c93ac0121465f2fbd69
+run_name: nosy-shoat-286
+run_uuid: a82578a702bc4c93ac0121465f2fbd69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692961009996
+status: 3
+tags: []
+user_id: savan

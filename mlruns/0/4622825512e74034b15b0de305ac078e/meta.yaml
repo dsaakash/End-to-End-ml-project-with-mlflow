@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/savan/Desktop/All_Files/End-to-End-ml-project-with-mlflow/mlruns/0/4622825512e74034b15b0de305ac078e/artifacts
+end_time: 1692959544556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4622825512e74034b15b0de305ac078e
+run_name: charming-robin-316
+run_uuid: 4622825512e74034b15b0de305ac078e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692959538971
+status: 3
+tags: []
+user_id: savan
