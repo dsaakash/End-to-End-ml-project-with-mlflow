@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Aakash Savant/End-to-End-ml-project-with-mlflow
+Author: Aakash Savant
+Author-email: savantaakash322@gmail.com
+Project-URL: Bug Tracker, https://github.com/Aakash Savant/End-to-End-ml-project-with-mlflow/issues
+License-File: LICENSE
+
+# End-to-End-ml-project-with-mlflow
